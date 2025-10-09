@@ -1,0 +1,1 @@
+import{I as a}from"./index.CZ3f-b.js";import{d as e,k as t,E as n}from"./vue-COdKRjzD.js";import"./antd-CXXDDKC_.js";const m=e({name:"CanvasPage",setup(){return()=>t(a,null,{default:()=>[n("CanvasPage")]})}});export{m as default};

@@ -1,0 +1,1 @@
+import{O as t}from"./OrbitControls-DY0Wr2xe.js";import{A as n}from"./three-BTgjnmg8.js";function u(s,e,o){const r=new t(s,e);return o&&Object.assign(r,o),r}function c(s,e=800,o){const r=new n(e);return s.add(r),r}export{c as a,u};

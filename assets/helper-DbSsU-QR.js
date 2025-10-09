@@ -1,0 +1,1 @@
+import{W as o}from"./WebGL-CX0sXxDC.js";function a(i){if(o.isWebGLAvailable())i();else{const e=o.getWebGLErrorMessage();document.body.appendChild(e)}}function r(i,e){window.addEventListener("resize",()=>{const n=window.innerWidth,t=window.innerHeight;i.setSize(n,t),e.aspect=n/t,e.updateProjectionMatrix()})}export{r as a,a as l};
